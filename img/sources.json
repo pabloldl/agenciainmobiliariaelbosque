@@ -1,0 +1,411 @@
+﻿[
+    {
+        "value":  [
+                      {
+                          "pageid":  35706212,
+                          "ns":  6,
+                          "title":  "File:ElBosque MIN-DSC09508.JPG",
+                          "index":  24,
+                          "imagerepository":  "local",
+                          "imageinfo":  [
+                                            {
+                                                "thumburl":  "https://upload.wikimedia.org/wikipedia/commons/b/b8/ElBosque_MIN-DSC09508.JPG?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                                "thumbwidth":  1600,
+                                                "thumbheight":  1200,
+                                                "thumbattribs":  {
+                                                                     "src":  "https://upload.wikimedia.org/wikipedia/commons/b/b8/ElBosque_MIN-DSC09508.JPG?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                                                     "decoding":  "async",
+                                                                     "loading":  "lazy",
+                                                                     "width":  1600,
+                                                                     "height":  1200
+                                                                 },
+                                                "url":  "https://upload.wikimedia.org/wikipedia/commons/b/b8/ElBosque_MIN-DSC09508.JPG?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                                                "descriptionurl":  "https://commons.wikimedia.org/wiki/File:ElBosque_MIN-DSC09508.JPG",
+                                                "descriptionshorturl":  "https://commons.wikimedia.org/w/index.php?curid=35706212",
+                                                "extmetadata":  {
+                                                                    "DateTime":  {
+                                                                                     "value":  "2014-09-27 21:17:40",
+                                                                                     "source":  "mediawiki-metadata",
+                                                                                     "hidden":  ""
+                                                                                 },
+                                                                    "ObjectName":  {
+                                                                                       "value":  "ElBosque MIN-DSC09508",
+                                                                                       "source":  "mediawiki-metadata"
+                                                                                   },
+                                                                    "CommonsMetadataExtension":  {
+                                                                                                     "value":  1.2,
+                                                                                                     "source":  "extension",
+                                                                                                     "hidden":  ""
+                                                                                                 },
+                                                                    "Categories":  {
+                                                                                       "value":  "Taken with Sony DSC-TX10|El Bosque (Cádiz)|Self-published work|Images by User:El Pantera",
+                                                                                       "source":  "commons-categories",
+                                                                                       "hidden":  ""
+                                                                                   },
+                                                                    "Assessments":  {
+                                                                                        "value":  "",
+                                                                                        "source":  "commons-categories",
+                                                                                        "hidden":  ""
+                                                                                    },
+                                                                    "ImageDescription":  {
+                                                                                             "value":  "El Bosque (provincia de Cádiz, España)",
+                                                                                             "source":  "commons-desc-page"
+                                                                                         },
+                                                                    "DateTimeOriginal":  {
+                                                                                             "value":  "2014-08-02 13:53:58",
+                                                                                             "source":  "commons-desc-page"
+                                                                                         },
+                                                                    "Credit":  {
+                                                                                   "value":  "\u003cspan class=\"int-own-work\" lang=\"en\"\u003eOwn work\u003c/span\u003e",
+                                                                                   "source":  "commons-desc-page"
+                                                                               },
+                                                                    "Artist":  {
+                                                                                   "value":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:El_Pantera\" class=\"mw-redirect\" title=\"User:El Pantera\"\u003eEl Pantera\u003c/a\u003e",
+                                                                                   "source":  "commons-desc-page"
+                                                                               },
+                                                                    "LicenseShortName":  {
+                                                                                             "value":  "CC BY-SA 4.0",
+                                                                                             "source":  "commons-desc-page",
+                                                                                             "hidden":  ""
+                                                                                         },
+                                                                    "UsageTerms":  {
+                                                                                       "value":  "Creative Commons Attribution-Share Alike 4.0",
+                                                                                       "source":  "commons-desc-page"
+                                                                                   },
+                                                                    "AttributionRequired":  {
+                                                                                                "value":  "true",
+                                                                                                "source":  "commons-desc-page",
+                                                                                                "hidden":  ""
+                                                                                            },
+                                                                    "LicenseUrl":  {
+                                                                                       "value":  "https://creativecommons.org/licenses/by-sa/4.0",
+                                                                                       "source":  "commons-desc-page"
+                                                                                   },
+                                                                    "Copyrighted":  {
+                                                                                        "value":  "True",
+                                                                                        "source":  "commons-desc-page",
+                                                                                        "hidden":  ""
+                                                                                    },
+                                                                    "Restrictions":  {
+                                                                                         "value":  "",
+                                                                                         "source":  "commons-desc-page",
+                                                                                         "hidden":  ""
+                                                                                     },
+                                                                    "License":  {
+                                                                                    "value":  "cc-by-sa-4.0",
+                                                                                    "source":  "commons-templates",
+                                                                                    "hidden":  ""
+                                                                                }
+                                                                }
+                                            }
+                                        ]
+                      },
+                      {
+                          "pageid":  107159442,
+                          "ns":  6,
+                          "title":  "File:El Bosque 20210609 18.jpg",
+                          "index":  19,
+                          "imagerepository":  "local",
+                          "imageinfo":  [
+                                            {
+                                                "thumburl":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/El_Bosque_20210609_18.jpg/1920px-El_Bosque_20210609_18.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                                "thumbwidth":  1600,
+                                                "thumbheight":  555,
+                                                "responsiveUrls":  {
+                                                                       "2":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/El_Bosque_20210609_18.jpg/3840px-El_Bosque_20210609_18.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail"
+                                                                   },
+                                                "thumbattribs":  {
+                                                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/El_Bosque_20210609_18.jpg/1920px-El_Bosque_20210609_18.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                                                     "decoding":  "async",
+                                                                     "loading":  "lazy",
+                                                                     "width":  1600,
+                                                                     "height":  555,
+                                                                     "srcset":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/El_Bosque_20210609_18.jpg/3840px-El_Bosque_20210609_18.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail 2x"
+                                                                 },
+                                                "url":  "https://upload.wikimedia.org/wikipedia/commons/3/39/El_Bosque_20210609_18.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                                                "descriptionurl":  "https://commons.wikimedia.org/wiki/File:El_Bosque_20210609_18.jpg",
+                                                "descriptionshorturl":  "https://commons.wikimedia.org/w/index.php?curid=107159442",
+                                                "extmetadata":  {
+                                                                    "DateTime":  {
+                                                                                     "value":  "2021-07-01 20:09:04",
+                                                                                     "source":  "mediawiki-metadata",
+                                                                                     "hidden":  ""
+                                                                                 },
+                                                                    "ObjectName":  {
+                                                                                       "value":  "El Bosque 20210609 18",
+                                                                                       "source":  "mediawiki-metadata"
+                                                                                   },
+                                                                    "CommonsMetadataExtension":  {
+                                                                                                     "value":  1.2,
+                                                                                                     "source":  "extension",
+                                                                                                     "hidden":  ""
+                                                                                                 },
+                                                                    "Categories":  {
+                                                                                       "value":  "El Bosque (Cádiz)|Self-published work|Images by Olea taken in 2021",
+                                                                                       "source":  "commons-categories",
+                                                                                       "hidden":  ""
+                                                                                   },
+                                                                    "Assessments":  {
+                                                                                        "value":  "",
+                                                                                        "source":  "commons-categories",
+                                                                                        "hidden":  ""
+                                                                                    },
+                                                                    "ImageDescription":  {
+                                                                                             "value":  "La localidad de El Bosque, de la provincia de Cádiz, España, en junio de 2021.",
+                                                                                             "source":  "commons-desc-page"
+                                                                                         },
+                                                                    "DateTimeOriginal":  {
+                                                                                             "value":  "2021-06-08 20:57:35",
+                                                                                             "source":  "commons-desc-page"
+                                                                                         },
+                                                                    "Credit":  {
+                                                                                   "value":  "\u003cspan class=\"int-own-work\" lang=\"en\"\u003eOwn work\u003c/span\u003e",
+                                                                                   "source":  "commons-desc-page"
+                                                                               },
+                                                                    "Artist":  {
+                                                                                   "value":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:Olea\" title=\"User:Olea\"\u003eIsmael Olea\u003c/a\u003e",
+                                                                                   "source":  "commons-desc-page"
+                                                                               },
+                                                                    "LicenseShortName":  {
+                                                                                             "value":  "CC BY 4.0",
+                                                                                             "source":  "commons-desc-page",
+                                                                                             "hidden":  ""
+                                                                                         },
+                                                                    "UsageTerms":  {
+                                                                                       "value":  "Creative Commons Attribution 4.0",
+                                                                                       "source":  "commons-desc-page"
+                                                                                   },
+                                                                    "AttributionRequired":  {
+                                                                                                "value":  "true",
+                                                                                                "source":  "commons-desc-page",
+                                                                                                "hidden":  ""
+                                                                                            },
+                                                                    "LicenseUrl":  {
+                                                                                       "value":  "https://creativecommons.org/licenses/by/4.0",
+                                                                                       "source":  "commons-desc-page"
+                                                                                   },
+                                                                    "Copyrighted":  {
+                                                                                        "value":  "True",
+                                                                                        "source":  "commons-desc-page",
+                                                                                        "hidden":  ""
+                                                                                    },
+                                                                    "Restrictions":  {
+                                                                                         "value":  "",
+                                                                                         "source":  "commons-desc-page",
+                                                                                         "hidden":  ""
+                                                                                     },
+                                                                    "License":  {
+                                                                                    "value":  "cc-by-4.0",
+                                                                                    "source":  "commons-templates",
+                                                                                    "hidden":  ""
+                                                                                }
+                                                                }
+                                            }
+                                        ]
+                      }
+                  ],
+        "Count":  2
+    },
+    {
+        "pageid":  107356484,
+        "ns":  6,
+        "title":  "File:Fuente - El Bosque - IMG 20190622 193026 727.jpg",
+        "index":  21,
+        "imagerepository":  "local",
+        "imageinfo":  [
+                          {
+                              "thumburl":  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fuente_-_El_Bosque_-_IMG_20190622_193026_727.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                              "thumbwidth":  1600,
+                              "thumbheight":  4930,
+                              "thumbattribs":  {
+                                                   "src":  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fuente_-_El_Bosque_-_IMG_20190622_193026_727.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                                   "decoding":  "async",
+                                                   "loading":  "lazy",
+                                                   "width":  1600,
+                                                   "height":  4930
+                                               },
+                              "url":  "https://upload.wikimedia.org/wikipedia/commons/1/1b/Fuente_-_El_Bosque_-_IMG_20190622_193026_727.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                              "descriptionurl":  "https://commons.wikimedia.org/wiki/File:Fuente_-_El_Bosque_-_IMG_20190622_193026_727.jpg",
+                              "descriptionshorturl":  "https://commons.wikimedia.org/w/index.php?curid=107356484",
+                              "extmetadata":  {
+                                                  "DateTime":  {
+                                                                   "value":  "2021-07-08 23:03:23",
+                                                                   "source":  "mediawiki-metadata",
+                                                                   "hidden":  ""
+                                                               },
+                                                  "ObjectName":  {
+                                                                     "value":  "Fuente - El Bosque - IMG 20190622 193026 727",
+                                                                     "source":  "mediawiki-metadata"
+                                                                 },
+                                                  "CommonsMetadataExtension":  {
+                                                                                   "value":  1.2,
+                                                                                   "source":  "extension",
+                                                                                   "hidden":  ""
+                                                                               },
+                                                  "Categories":  {
+                                                                     "value":  "Orienteering in Spain|El Bosque (Cádiz)|Self-published work|Drinking fountains in Andalusia",
+                                                                     "source":  "commons-categories",
+                                                                     "hidden":  ""
+                                                                 },
+                                                  "Assessments":  {
+                                                                      "value":  "",
+                                                                      "source":  "commons-categories",
+                                                                      "hidden":  ""
+                                                                  },
+                                                  "ImageDescription":  {
+                                                                           "value":  "Fuente de la Plaza de Abastos de El Bosque, fuente de San Antonio (provincia de Cádiz, España)",
+                                                                           "source":  "commons-desc-page"
+                                                                       },
+                                                  "DateTimeOriginal":  {
+                                                                           "value":  "2019-06-22 19:30:30",
+                                                                           "source":  "commons-desc-page"
+                                                                       },
+                                                  "Credit":  {
+                                                                 "value":  "\u003cspan class=\"int-own-work\" lang=\"en\"\u003eOwn work\u003c/span\u003e",
+                                                                 "source":  "commons-desc-page"
+                                                             },
+                                                  "Artist":  {
+                                                                 "value":  "\u003ca href=\"//commons.wikimedia.org/wiki/User:El_Pantera\" class=\"mw-redirect\" title=\"User:El Pantera\"\u003eEl Pantera\u003c/a\u003e",
+                                                                 "source":  "commons-desc-page"
+                                                             },
+                                                  "LicenseShortName":  {
+                                                                           "value":  "CC BY-SA 4.0",
+                                                                           "source":  "commons-desc-page",
+                                                                           "hidden":  ""
+                                                                       },
+                                                  "UsageTerms":  {
+                                                                     "value":  "Creative Commons Attribution-Share Alike 4.0",
+                                                                     "source":  "commons-desc-page"
+                                                                 },
+                                                  "AttributionRequired":  {
+                                                                              "value":  "true",
+                                                                              "source":  "commons-desc-page",
+                                                                              "hidden":  ""
+                                                                          },
+                                                  "LicenseUrl":  {
+                                                                     "value":  "https://creativecommons.org/licenses/by-sa/4.0",
+                                                                     "source":  "commons-desc-page"
+                                                                 },
+                                                  "Copyrighted":  {
+                                                                      "value":  "True",
+                                                                      "source":  "commons-desc-page",
+                                                                      "hidden":  ""
+                                                                  },
+                                                  "Restrictions":  {
+                                                                       "value":  "",
+                                                                       "source":  "commons-desc-page",
+                                                                       "hidden":  ""
+                                                                   },
+                                                  "License":  {
+                                                                  "value":  "cc-by-sa-4.0",
+                                                                  "source":  "commons-templates",
+                                                                  "hidden":  ""
+                                                              }
+                                              }
+                          }
+                      ]
+    },
+    {
+        "pageid":  144060791,
+        "ns":  6,
+        "title":  "File:El Bosque (provincia de Cádiz, España) - P1470060.jpg",
+        "index":  4,
+        "imagerepository":  "local",
+        "imageinfo":  [
+                          {
+                              "thumburl":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg/1920px-El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                              "thumbwidth":  1800,
+                              "thumbheight":  1350,
+                              "responsiveUrls":  {
+                                                     "2":  "https://upload.wikimedia.org/wikipedia/commons/d/d4/El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled"
+                                                 },
+                              "thumbattribs":  {
+                                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg/1920px-El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                                   "decoding":  "async",
+                                                   "loading":  "lazy",
+                                                   "width":  1800,
+                                                   "height":  1350,
+                                                   "srcset":  "https://upload.wikimedia.org/wikipedia/commons/d/d4/El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled 2x"
+                                               },
+                              "url":  "https://upload.wikimedia.org/wikipedia/commons/d/d4/El_Bosque_%28provincia_de_C%C3%A1diz%2C_Espa%C3%B1a%29_-_P1470060.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=original",
+                              "descriptionurl":  "https://commons.wikimedia.org/wiki/File:El_Bosque_(provincia_de_C%C3%A1diz,_Espa%C3%B1a)_-_P1470060.jpg",
+                              "descriptionshorturl":  "https://commons.wikimedia.org/w/index.php?curid=144060791",
+                              "extmetadata":  {
+                                                  "DateTime":  {
+                                                                   "value":  "2024-01-16 07:51:41",
+                                                                   "source":  "mediawiki-metadata",
+                                                                   "hidden":  ""
+                                                               },
+                                                  "ObjectName":  {
+                                                                     "value":  "El Bosque (provincia de Cádiz, España) - P1470060",
+                                                                     "source":  "mediawiki-metadata"
+                                                                 },
+                                                  "CommonsMetadataExtension":  {
+                                                                                   "value":  1.2,
+                                                                                   "source":  "extension",
+                                                                                   "hidden":  ""
+                                                                               },
+                                                  "Categories":  {
+                                                                     "value":  "El Bosque (Cádiz)|Self-published work",
+                                                                     "source":  "commons-categories",
+                                                                     "hidden":  ""
+                                                                 },
+                                                  "Assessments":  {
+                                                                      "value":  "",
+                                                                      "source":  "commons-categories",
+                                                                      "hidden":  ""
+                                                                  },
+                                                  "ImageDescription":  {
+                                                                           "value":  "El Bosque (provincia de Cádiz, España) zona de recreo junto al río Majaceite",
+                                                                           "source":  "commons-desc-page"
+                                                                       },
+                                                  "DateTimeOriginal":  {
+                                                                           "value":  "2020-06-07 18:02:53",
+                                                                           "source":  "commons-desc-page"
+                                                                       },
+                                                  "Credit":  {
+                                                                 "value":  "\u003cspan class=\"int-own-work\" lang=\"en\"\u003eOwn work\u003c/span\u003e",
+                                                                 "source":  "commons-desc-page"
+                                                             },
+                                                  "Artist":  {
+                                                                 "value":  "El Pantera",
+                                                                 "source":  "commons-desc-page"
+                                                             },
+                                                  "LicenseShortName":  {
+                                                                           "value":  "CC BY-SA 4.0",
+                                                                           "source":  "commons-desc-page",
+                                                                           "hidden":  ""
+                                                                       },
+                                                  "UsageTerms":  {
+                                                                     "value":  "Creative Commons Attribution-Share Alike 4.0",
+                                                                     "source":  "commons-desc-page"
+                                                                 },
+                                                  "AttributionRequired":  {
+                                                                              "value":  "true",
+                                                                              "source":  "commons-desc-page",
+                                                                              "hidden":  ""
+                                                                          },
+                                                  "LicenseUrl":  {
+                                                                     "value":  "https://creativecommons.org/licenses/by-sa/4.0",
+                                                                     "source":  "commons-desc-page"
+                                                                 },
+                                                  "Copyrighted":  {
+                                                                      "value":  "True",
+                                                                      "source":  "commons-desc-page",
+                                                                      "hidden":  ""
+                                                                  },
+                                                  "Restrictions":  {
+                                                                       "value":  "",
+                                                                       "source":  "commons-desc-page",
+                                                                       "hidden":  ""
+                                                                   },
+                                                  "License":  {
+                                                                  "value":  "cc-by-sa-4.0",
+                                                                  "source":  "commons-templates",
+                                                                  "hidden":  ""
+                                                              }
+                                              }
+                          }
+                      ]
+    }
+]
