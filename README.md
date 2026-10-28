@@ -1,83 +1,55 @@
-﻿# Agencia inmobiliaria de El Bosque — El plano vivo
+﻿# Agencia Inmobiliaria El Bosque
 
-Rediseño integral local. HTML5, CSS3 y JavaScript vanilla, sin compilación ni dependencias de ejecución. Abrir `index.html` con Live Server. No se ha publicado ni modificado ningún otro proyecto.
+Rediseño local de la web existente. HTML5, CSS3 y JavaScript vanilla; funciona con Live Server, sin compilación. No se han realizado despliegues, commits ni pushes.
 
-## Concepto y nueva estructura
+## Diseño y estructura
 
-La identidad responde a un plano arquitectónico: barra de herramientas con recorrido activo, portada en L con cotas gráficas sin medidas inventadas, exploración por capas del territorio, trazado A–B–C para preparar una consulta, plano de encuentro con contacto y cajetín de cierre.
+Identidad cálida en cal, terracota y marrón, con Georgia y Arial del sistema. Cabecera con símbolo de vivienda, introducción editorial sobre una panorámica real, consulta de disponibilidad, presentación de la agencia con fotografía en arco, sección del entorno del Majaceite, contacto y pie compacto. Se elimina el concepto anterior de plano técnico y sus capas fotográficas; las tres imágenes quedan visibles en secciones propias sin repetirse.
 
-Se sustituyeron cabecera, hero, orden y composición de contenidos, tipografías, colores, controles, textos, animaciones, contacto, favicon y footer. No se mantiene la portada editorial ni sus secciones de presentación. El catálogo de servicios y los inmuebles se omiten por falta de información verificada.
+Se revisó el HTML de Realty Canoe únicamente como comparación: esta propuesta utiliza otra paleta, tipografías, portada con texto fuera de la fotografía, fotografía arquitectónica en arco y sección local propia. No se modificó ese proyecto.
 
-Paleta: #F0F0EA, #202522, #557B68, #C4CBC3 y #D67B48. El verde de las anotaciones pequeñas se oscurece a #41614F para el contraste. El naranja identifica el acceso de contacto y los nodos de conexión.
+No existe catálogo ni documentación suficiente para anunciar servicios. Se ofrece consulta telefónica de disponibilidad, sin fichas ficticias, buscadores decorativos ni servicios supuestos. No se añaden WhatsApp, correo, redes, formularios o testimonios sin datos confirmados.
 
-Fuentes locales: Space Grotesk y IBM Plex Mono. Descargadas de las carpetas oficiales `ofl/spacegrotesk` y `ofl/ibmplexmono` de https://github.com/google/fonts . Licencias SIL OFL en `fonts/OFL-space.txt` y `fonts/OFL-plex.txt`. Se retiraron las fuentes anteriores.
+## Datos conservados y pendientes
 
-## Información comercial
+Se mantienen los datos existentes: Agencia inmobiliaria de El Bosque, 682 196 319 y A-372, 11670 El Bosque, Cádiz. El README anterior advertía que no se había encontrado una fuente inequívoca que vinculara el teléfono con el negocio; también se había localizado en un directorio de otro negocio. Se conserva por instrucción de mantener los datos existentes, pero NO se considera verificado externamente en este trabajo.
 
-Datos conservados por instrucción del cliente:
+Antes de una publicación comercial, confirmar teléfono y nombre comercial, dirección exacta, servicios y ámbito de actuación, horarios y documentación legal. La dirección carece de número o punto kilométrico: Google Maps abre una búsqueda de zona y se indica al visitante que confirme el punto de encuentro. No se afirma cobertura de toda la Sierra de Cádiz.
 
-- Agencia inmobiliaria de El Bosque.
-- A-372, 11670 El Bosque, Cádiz.
-- 682 196 319; enlace `tel:+34682196319`.
+Para incorporar un catálogo hacen falta fotografías autorizadas de cada inmueble, referencia, operación, localidad, precio, superficie, características y disponibilidad confirmados. Para sustituir la fotografía ambiental por material de agencia, hacen falta imágenes autorizadas de viviendas o interiores y de la oficina. Las imágenes actuales nunca se presentan como inmuebles anunciados ni oficina propia.
 
-La investigación inicial no encontró una fuente inequívoca que vincule estos datos con la agencia. El teléfono también aparecía en un directorio de otro negocio: https://www.extend-system.com/es/distribuidores-vigas-telescopicas-extend-system/ . No se deduce que sea incorrecto; se mantiene el dato facilitado. No se ha añadido una marca comercial distinta ni se ha hecho una nueva confirmación externa del teléfono en este rediseño.
+## Fotografías
 
-No se inventan inmuebles, precios, disponibilidad, servicios, equipo, reseñas, años de actividad, comisiones, horarios, correo, redes o WhatsApp. La guía A–B–C ayuda al visitante a formular su consulta; no afirma cómo trabaja la agencia ni qué servicios presta.
+Se inspeccionaron visualmente los tres archivos existentes. Se mantienen las atribuciones y licencias en el pie; fuentes originales en `img/sources.json`.
 
-Contexto local procedente de la fuente oficial ya contrastada: https://www.cadizturismo.com/es/municipios/el-bosque . Se limita a El Bosque, provincia de Cádiz y entorno del Majaceite. No se indican distancias, áreas de actuación o datos de mercado.
+- `img/paisaje.jpg`: Ismael Olea, El Bosque 20210609 18, CC BY 4.0. Portada, 1600 × 556.
+- `img/fuente.jpg`: El Pantera, fuente de San Antonio, CC BY-SA 4.0. Detalle arquitectónico previamente recortado, 800 × 1200.
+- `img/ribera-web.jpg`: derivada de `img/ribera.jpg`, El Pantera, P1470060, CC BY-SA 4.0. Reescalado a 1400 × 1050, JPEG calidad 82. Se mantiene la licencia de la adaptación. Original conservado.
 
-La dirección A-372 no permite ubicar una oficina concreta. Google Maps abre una búsqueda de zona, sin coordenadas ni marcador inventados. El plano, las curvas y el norte son un lenguaje gráfico conceptual, expresamente identificado sin escala y no topográfico; no son una cartografía real del establecimiento.
+Fotografías sin repetición, dimensiones explícitas, recortes CSS sin deformación, carga prioritaria de portada y diferida del resto. No se necesitan fuentes ni librerías remotas en ejecución. Los archivos de fuentes anteriores se conservan aunque ya no se cargan.
 
-## Fotografías y licencias
+## Funcionalidad y accesibilidad
 
-| Archivo | Procedencia / autor | Licencia y adaptación |
-| --- | --- | --- |
-| `img/paisaje.jpg` | [El Bosque 20210609 18](https://commons.wikimedia.org/wiki/File:El_Bosque_20210609_18.jpg), Ismael Olea | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 1600 × 556; reescalado y recompresión JPEG; recorte visual CSS. |
-| `img/fuente.jpg` | [Fuente de San Antonio, IMG 20190622 193026 727](https://commons.wikimedia.org/wiki/File:Fuente_-_El_Bosque_-_IMG_20190622_193026_727.jpg), El Pantera | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Recorte superior derecho de 1000 × 1500 a partir de x=350,y=0, reescalado a 800 × 1200 y exportación JPEG. La adaptación mantiene CC BY-SA 4.0. |
-| `img/ribera.jpg` | [P1470060](https://commons.wikimedia.org/wiki/File:El_Bosque_(provincia_de_C%C3%A1diz,_Espa%C3%B1a)_-_P1470060.jpg), El Pantera | CC BY-SA 4.0. 1920 × 1440; recompresión JPEG y recorte visual CSS. La adaptación mantiene CC BY-SA 4.0. |
+Navegación móvil progresiva: visible sin JavaScript; con JavaScript, botón Menú, cierre al navegar y con Escape, devolviendo el foco. Llamadas mediante `tel:`, copia por Clipboard API con alternativa manual seleccionable y aviso accesible, búsqueda de zona en Google Maps, enlace a Cádiz Turismo y créditos desplegables. SVG monocromáticos, salto al contenido y foco visible. Movimiento reducido desactiva animaciones y scroll suave.
 
-Las imágenes son del territorio, no inmuebles de la agencia. Atribución y enlaces de licencia en el footer; metadatos de Wikimedia en `img/sources.json`. Se descargaron con comprobación HTTP, se abrieron para inspección visual, se decodificaron con System.Drawing y se verificaron en Chrome. Ningún archivo HTML se utiliza como imagen. Las nuevas versiones se reexportaron con codificador JPEG, no cambiando extensiones. La panorámica se guardó con calidad 83. Se conservó la ribera válida de la primera versión.
+Se conserva `noindex, nofollow`, descripción, Open Graph válido y JSON-LD con los datos comerciales existentes. Se actualizan título y color de tema. `og:image` sigue siendo relativo; al publicar deberá ajustarse al dominio real sin inventarlo.
 
-La revisión de fuentes documentadas detectó que P1460803 se utilizaba en Mafloras y P1460804 en La Casa del Muro; se retiraron del proyecto. También se descartaron P1470062 y P1470071 al aparecer en La Casa Ronda y Mafloras. Los dos nuevos originales no aparecieron en la búsqueda de identificadores de fuentes de los otros proyectos. Esto es una comprobación documental, no una garantía sobre archivos ajenos sin procedencia registrada.
+## Verificación ejecutada en este rediseño
 
-## Interacciones
+Script `.qa/redesign-check.cjs`, Playwright con Chrome headless y axe-core ya disponibles en el proyecto. Resultados en `.qa/redesign-results.json` y capturas `.qa/redesign-{anchura}.png`.
 
-- Índice móvil desplegable, sin hamburguesa; cierre tras seleccionar una sección y con Escape. Foco devuelto al botón al usar Escape.
-- Navegación técnica con indicador de sección activa según desplazamiento; no intercepta ni secuestra el scroll.
-- Botones de capas Paisaje / Arquitectura / Ribera: muestran la fotografía y leyenda correspondiente, con `aria-pressed` y `aria-controls`. Sin JavaScript se muestran las tres imágenes y no aparecen controles inertes.
-- Teléfono y llamada con enlaces reales `tel:`.
-- Copia con Clipboard API; alternativa seleccionable si no está disponible o se deniega el permiso, con anuncio `aria-live`.
-- Enlace externo a búsqueda de Google Maps con `noopener noreferrer`.
-- Curvas que se trazan al entrar en pantalla, línea de acceso al teléfono y máscara escalonada al cambiar de capa. Contenido legible sin animaciones; `prefers-reduced-motion` desactiva movimiento.
+- 375, 768, 1440 y 1920 px: sin desbordamiento horizontal, imágenes decodificadas, destinos internos válidos y noindex presente.
+- Axe WCAG 2 A/AA y 2.1 A/AA: cero infracciones detectadas en las cuatro vistas iniciales.
+- Menú móvil: apertura, Escape con retorno de foco y cierre tras navegar.
+- Portapapeles real y alternativa ante denegación de Clipboard API.
+- Destinos telefónicos y URL de búsqueda de Google Maps comprobados, sin realizar llamadas.
+- Movimiento reducido y navegación sin JavaScript en móvil.
+- Sin errores JavaScript ni respuestas HTTP locales de error durante estas pruebas.
+- `node --check js/script.js` correcto.
+- Capturas de 1440 y 375 px inspeccionadas visualmente.
 
-## Originalidad
+No se ha probado Safari, un iPhone físico, lectores de pantalla ni la atención real por teléfono. La auditoría automatizada tiene ese alcance limitado.
 
-Antes de programar se revisaron el HTML y JavaScript de la versión anterior, la captura disponible de Realty Canoe y el código de Lavandería Salvi, Piscifactoría El Bosque y Las Buganvillas. Las comparaciones se limitan a esos recursos accesibles. No se afirma una comparación visual de todo el directorio.
+## Archivos
 
-La nueva portada no es una composición editorial de título junto a una imagen vertical o franja panorámica de ancho completo: es un plano en L, con identidad en el área superior, fotografía geométrica inferior y referencia de dirección. La secuencia no mantiene agencia / entorno / consulta / ubicación / contacto: se reduce a punto de partida / capas / trazado de consulta / encuentro, fusionando contacto y ubicación.
-
-La pareja Space Grotesk / IBM Plex Mono es distinta de la anterior Cormorant Garamond / Outfit y de Space Grotesk / IBM Plex Sans de Peluquería Mari Carmen. Se han conservado únicamente los recursos locales válidos y las funciones necesarias, con implementaciones nuevas de recorrido y capas.
-
-## SEO y accesibilidad
-
-Título, descripción, Open Graph, idioma español y JSON-LD RealEstateAgent limitado a nombre, teléfono y dirección facilitados. Enlace para saltar al contenido, jerarquía de encabezados, foco visible, alternativas de imagen y controles HTML nativos. No se introduce un dominio ficticio: `og:image` es relativo; al publicar en un dominio real deberán configurarse URL absoluta, `og:url` y canonical.
-
-Los textos verdes pequeños usan un tono más oscuro para alcanzar contraste suficiente. No hay dependencias remotas de tipografías, cookies, analítica o formularios.
-
-## Verificación ejecutada
-
-Chrome headless con Playwright, en instalación de QA aislada dentro de `.qa/`, ignorada en Git y ajena a los archivos necesarios para Live Server:
-
-- 375, 768, 1440 y 1920 px: sin desbordamiento horizontal, imágenes visibles decodificadas, destinos internos existentes y sin errores JavaScript ni HTTP locales.
-- Menú móvil: apertura, Escape y cierre al navegar.
-- Copia real al portapapeles y alternativa ante denegación.
-- Tres botones de capas: cambio efectivo y decodificación de cada imagen.
-- Indicador de sección activa actualizado al desplazarse al contacto; destinos telefónicos y búsqueda de Google Maps comprobados en el DOM.
-- JavaScript desactivado a 375 px: navegación accesible, fotografías presentes y sin desbordamiento; herramientas interactivas ocultas.
-- Preferencia de movimiento reducido: scroll automático sin suavizado.
-- Axe-core: reglas WCAG 2 A/AA y WCAG 2.1 A/AA, sin infracciones detectadas en las cuatro vistas iniciales.
-- Axe-core también sin infracciones en la capa Arquitectura abierta y con la alternativa de copia visible en móvil.
-- Capturas completas revisadas visualmente en escritorio, tablet y móvil durante el rediseño.
-- JavaScript comprobado con `node --check`.
-
-El test no realiza llamadas ni verifica físicamente el establecimiento. La auditoría automatizada no sustituye pruebas con lectores de pantalla o dispositivos físicos. Resultados y capturas en `.qa/`.
+Modificados: `index.html`, `css/style.css`, `js/script.js`, `favicon.svg`, `README.md`. Añadido: `img/ribera-web.jpg`. Scripts y resultados de revisión en `.qa/`, ya ignorada por Git. Todo el trabajo se limita a esta carpeta de proyecto.
